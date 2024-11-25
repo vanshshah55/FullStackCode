@@ -1,0 +1,65 @@
+Exp 1 
+If vite is not installed
+npm i vite
+npm run dev 
+
+Exp 2
+Same as exp1
+npm run dev
+
+Exp 3
+npm init -y
+node event.js
+
+Exp 4
+nmp init -y
+node functions.js
+
+Exp 5
+In server
+   npm i
+   node server.js
+In client 
+In bookcrude
+   npm i 
+   nmp start
+
+Exp 6
+In node folder
+In server
+  npm i
+  node sever.js
+In react folder
+  npm i
+  npm start
+
+Exp 7
+   npm i
+   node server.js
+In courses frontend
+   npm i
+
+Exp 8
+If 8 th experiment is asked
+Perform 5 th experiment 
+
+Exp 9
+npm i vite
+npm run dev
+
+Exp 10
+node callbacks.js
+node eventloop.js
+node merge.js
+
+Exp 11
+   npm i
+   node api.js
+In client
+   npm i
+   npm start
+
+Exp 12
+npm install express cors axios
+npm i
+npm start

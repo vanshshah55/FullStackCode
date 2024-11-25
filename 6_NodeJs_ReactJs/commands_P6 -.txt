@@ -1,0 +1,7 @@
+in node folder
+npm I
+node server.js
+
+in react folder
+npm I vite
+npm run dev
